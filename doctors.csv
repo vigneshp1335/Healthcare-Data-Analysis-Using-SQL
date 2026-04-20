@@ -1,0 +1,31 @@
+doctor_id,doctor_name,specialization,experience_years
+1,Dr_1,Neurology,6
+2,Dr_2,Orthopedics,7
+3,Dr_3,General Medicine,8
+4,Dr_4,Diabetology,9
+5,Dr_5,Gynecology,10
+6,Dr_6,Pediatrics,11
+7,Dr_7,ENT,12
+8,Dr_8,Dermatology,13
+9,Dr_9,Pulmonology,14
+10,Dr_10,Cardiology,15
+11,Dr_11,Neurology,16
+12,Dr_12,Orthopedics,17
+13,Dr_13,General Medicine,18
+14,Dr_14,Diabetology,19
+15,Dr_15,Gynecology,20
+16,Dr_16,Pediatrics,21
+17,Dr_17,ENT,22
+18,Dr_18,Dermatology,23
+19,Dr_19,Pulmonology,24
+20,Dr_20,Cardiology,5
+21,Dr_21,Neurology,6
+22,Dr_22,Orthopedics,7
+23,Dr_23,General Medicine,8
+24,Dr_24,Diabetology,9
+25,Dr_25,Gynecology,10
+26,Dr_26,Pediatrics,11
+27,Dr_27,ENT,12
+28,Dr_28,Dermatology,13
+29,Dr_29,Pulmonology,14
+30,Dr_30,Cardiology,15
