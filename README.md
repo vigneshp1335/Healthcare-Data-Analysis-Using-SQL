@@ -8,4 +8,4 @@
 #### - Generate insights from patient data
 #### - Practice real-world data querying scenarios
 ## Project Structure
-#### 
+#### sql.finalproject.sql 
